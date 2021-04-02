@@ -13,5 +13,6 @@ public class App
         System.out.println( "nbs" );
         System.out.println( "ddd" );
         System.out.println( "qwe" );
+        System.out.println( "qwe" );
     }
 }
