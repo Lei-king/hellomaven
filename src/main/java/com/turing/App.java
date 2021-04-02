@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "nbs" );
         System.out.println( "ddd" );
+        System.out.println( "qwe" );
     }
 }
